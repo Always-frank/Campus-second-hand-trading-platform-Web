@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
+    <el-button type="danger" round>危险按钮</el-button>
     <ul>
       <li>
         <a
